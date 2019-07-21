@@ -3,8 +3,9 @@
 
 ## Lưu ý
 Giải pháp dưới đây chỉ đúng khi data là hợp lệ. Data hợp lệ có các tính chất như sau:
-* Với mỗi số điện thoại chỉ có 1 bản ghi duy nhất có deactivation là null
+* Với mỗi số điện thoại chỉ có 1 bản ghi duy nhất có deactivation trống
 * Các khoảng thời gian activation - deactivation của một số điện thoại không bị trùng nhau.
+* Thời điểm có deactivation date trống là thời điểm có activation date lớn nhất trong các khoảng thời gian sử dụng của 1 số điện thoại
 
 ## Yêu cầu đề bài
 * Dữ liệu đầu vào không được sắp xếp, tuy nhiên mỗi số điện thoại tại 1 thời điểm chỉ có 1 người sử dụng duy nhất.

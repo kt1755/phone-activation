@@ -1,0 +1,27 @@
+mode: set
+tiki/csv.go:12.60,14.16 2 1
+tiki/csv.go:18.2,19.6 2 1
+tiki/csv.go:33.2,33.18 1 1
+tiki/csv.go:14.16,17.3 2 0
+tiki/csv.go:19.6,21.17 2 1
+tiki/csv.go:31.3,31.30 1 1
+tiki/csv.go:21.17,22.21 1 1
+tiki/csv.go:22.21,24.10 2 1
+tiki/csv.go:25.10,28.5 2 0
+tiki/csv.go:36.55,39.16 2 1
+tiki/csv.go:43.2,45.30 2 1
+tiki/csv.go:51.2,52.41 2 1
+tiki/csv.go:57.2,57.12 1 1
+tiki/csv.go:39.16,41.3 1 0
+tiki/csv.go:45.30,46.48 1 1
+tiki/csv.go:46.48,48.4 1 0
+tiki/csv.go:52.41,55.3 2 0
+tiki/sort.go:3.48,4.19 1 1
+tiki/sort.go:8.2,11.25 3 1
+tiki/sort.go:17.2,19.25 2 1
+tiki/sort.go:26.2,30.13 4 1
+tiki/sort.go:4.19,6.3 1 1
+tiki/sort.go:11.25,13.3 1 1
+tiki/sort.go:13.8,15.3 1 1
+tiki/sort.go:19.25,20.82 1 1
+tiki/sort.go:20.82,23.4 2 1
